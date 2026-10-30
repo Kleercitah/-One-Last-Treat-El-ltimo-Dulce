@@ -1,0 +1,1007 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-30T02:33:02.648Z",
+  "lines": [
+    {
+      "id": "riliane_001",
+      "speaker": "Riliane",
+      "text": "¡Esta noche encontraré el Caramelo de Oro! Una princesa merece un premio a su altura.",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_001.mp3"
+    },
+    {
+      "id": "allen_001",
+      "speaker": "Allen",
+      "text": "Y un caballero debe recordar el camino de vuelta. Nuestra casa es la del tejado verde y la corona junto al escudo. Mamá nos espera antes de medianoche.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_001.mp3"
+    },
+    {
+      "id": "riliane_002",
+      "speaker": "Riliane",
+      "text": "Entonces tendremos que ser rápidos. ¡Mira, Allen! En casa de Magnolia todavía hay luz.",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_002.mp3"
+    },
+    {
+      "id": "allen_002",
+      "speaker": "Allen",
+      "text": "Te sigo. Acércate a la puerta y toca el timbre. Lo importante lo apuntaré en mi cuaderno.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_002.mp3"
+    },
+    {
+      "id": "riliane_003",
+      "speaker": "Riliane",
+      "text": "¡Dulce o truco!",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_003.mp3"
+    },
+    {
+      "id": "magnolia_001",
+      "speaker": "Magnolia",
+      "text": "¡Una princesa y su caballero! Pasen al porche, pequeños. Acabo de sacar las galletas.",
+      "emotion": "dulce y maternal",
+      "file": "assets/voices/magnolia/magnolia_001.mp3"
+    },
+    {
+      "id": "riliane_004",
+      "speaker": "Riliane",
+      "text": "¡Gracias! Aunque esta noche buscamos algo todavía más especial… el Caramelo de Oro.",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_004.mp3"
+    },
+    {
+      "id": "magnolia_002",
+      "speaker": "Magnolia",
+      "text": "Ah, el concurso. Lleven esta tarjeta y unos caramelos para el camino. ¿Volverán mañana?",
+      "emotion": "dulce y maternal",
+      "file": "assets/voices/magnolia/magnolia_002.mp3"
+    },
+    {
+      "id": "allen_003",
+      "speaker": "Allen",
+      "text": "Gracias, Magnolia. Guardaré la tarjeta en el cuaderno para que no se pierda.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_003.mp3"
+    },
+    {
+      "id": "riliane_005",
+      "speaker": "Riliane",
+      "text": "¿Ves, Allen? ¡Ya tenemos una pista! Pero las galletas las compartimos.",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_005.mp3"
+    },
+    {
+      "id": "magnolia_003",
+      "speaker": "Magnolia",
+      "text": "Abrigaos bien, pequeños. Y recordad volver a casa antes de que sea demasiado tarde.",
+      "emotion": "dulce y maternal",
+      "file": "assets/voices/magnolia/magnolia_003.mp3"
+    },
+    {
+      "id": "allen_004",
+      "speaker": "Allen",
+      "text": "La tarjeta está guardada. Podemos consultarla en mi cuaderno.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_004.mp3"
+    },
+    {
+      "id": "allen_005",
+      "speaker": "Allen",
+      "text": "Podemos saludar al relojero después. Primero íbamos a casa de Magnolia, ¿recuerdas?",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_005.mp3"
+    },
+    {
+      "id": "riliane_006",
+      "speaker": "Riliane",
+      "text": "¡Dulce o truco, Don Basilio! ¿Ha oído hablar del Caramelo de Oro?",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_006.mp3"
+    },
+    {
+      "id": "basilio_001",
+      "speaker": "Don Basilio",
+      "text": "Buenas noches. Hasta mis relojes oyen hablar de ese concurso. Yo fabrico premios que no se comen: mirad el escaparate.",
+      "emotion": "excéntrica y misteriosa",
+      "file": "assets/voices/basilio/basilio_001.mp3"
+    },
+    {
+      "id": "riliane_007",
+      "speaker": "Riliane",
+      "text": "¡Esa muñeca lleva mi corona! Aunque la mía es mucho más elegante.",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_007.mp3"
+    },
+    {
+      "id": "allen_006",
+      "speaker": "Allen",
+      "text": "Y el caballero tiene mi capa y mi espada de madera… ¿Cuándo nos vio para hacerlos?",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_006.mp3"
+    },
+    {
+      "id": "basilio_002",
+      "speaker": "Don Basilio",
+      "text": "Un artesano se fija en los detalles. Observadlos bien; luego dense una vuelta y diganme si algo ha cambiado.",
+      "emotion": "excéntrica y misteriosa",
+      "file": "assets/voices/basilio/basilio_002.mp3"
+    },
+    {
+      "id": "allen_007",
+      "speaker": "Allen",
+      "text": "Los dibujaré de frente. Así podremos comparar cuando volvamos.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_007.mp3"
+    },
+    {
+      "id": "allen_008",
+      "speaker": "Allen",
+      "text": "Espera… ha sonado el timbre del taller. No hemos tocado nada.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_008.mp3"
+    },
+    {
+      "id": "riliane_008",
+      "speaker": "Riliane",
+      "text": "Será uno de sus juguetes. Vamos a ver. Quédate conmigo, Allen.",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_008.mp3"
+    },
+    {
+      "id": "allen_009",
+      "speaker": "Allen",
+      "text": "El caballero. Antes nos miraba y ahora nos da la espalda. La princesa sigue igual. Lo tengo dibujado.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_009.mp3"
+    },
+    {
+      "id": "riliane_009",
+      "speaker": "Riliane",
+      "text": "Buen truco, Don Basilio. ¿Dónde está la cuerda?",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_009.mp3"
+    },
+    {
+      "id": "basilio_003",
+      "speaker": "Don Basilio",
+      "text": "Ese caballero no tiene cuerda… Quizá quedó mal apoyado. Dejadlo ahí, por favor.",
+      "emotion": "excéntrica y misteriosa",
+      "file": "assets/voices/basilio/basilio_003.mp3"
+    },
+    {
+      "id": "muneco_001",
+      "speaker": "Muñeco",
+      "text": "«No acepten el último dulce».",
+      "emotion": "susurrante",
+      "file": "assets/voices/muneco/muneco_001.mp3"
+    },
+    {
+      "id": "allen_010",
+      "speaker": "Allen",
+      "text": "Riliane, eso lo has oído tú también, ¿verdad? Voy a apuntarlo tal como lo ha dicho.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_010.mp3"
+    },
+    {
+      "id": "riliane_010",
+      "speaker": "Riliane",
+      "text": "Sí… lo he oído. No te separes. Podemos dejar el concurso si hace falta.",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_010.mp3"
+    },
+    {
+      "id": "basilio_004",
+      "speaker": "Don Basilio",
+      "text": "Allen, lleva este dibujo de las farolas. Te ayudará a reconocer la calle al volver. Ya va siendo hora.",
+      "emotion": "excéntrica y misteriosa",
+      "file": "assets/voices/basilio/basilio_004.mp3"
+    },
+    {
+      "id": "basilio_005",
+      "speaker": "Don Basilio",
+      "text": "Conservad el dibujo, pequeños. Y no os entretengáis demasiado.",
+      "emotion": "excéntrica y misteriosa",
+      "file": "assets/voices/basilio/basilio_005.mp3"
+    },
+    {
+      "id": "allen_011",
+      "speaker": "Allen",
+      "text": "Está junto a mis apuntes de los muñecos. No me gusta que el caballero siga de espaldas.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_011.mp3"
+    },
+    {
+      "id": "allen_012",
+      "speaker": "Allen",
+      "text": "Esa cortina se ha movido… Pero primero íbamos a casa de Magnolia. No cambiemos el recorrido todavía.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_012.mp3"
+    },
+    {
+      "id": "allen_013",
+      "speaker": "Allen",
+      "text": "Antes de seguir, terminemos la visita a Don Basilio. Quiero entender lo que pasa con sus muñecos.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_013.mp3"
+    },
+    {
+      "id": "riliane_011",
+      "speaker": "Riliane",
+      "text": "¡Dulce o truco, señorita Carmesí! ¿No va a abrirnos?",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_011.mp3"
+    },
+    {
+      "id": "carmesi_001",
+      "speaker": "Señorita Carmesí",
+      "text": "Desde aquí os oigo perfectamente. Las puertas abiertas dejan entrar más cosas que el frío.",
+      "emotion": "elegante, pausada e inquietante",
+      "file": "assets/voices/carmesi/carmesi_001.mp3"
+    },
+    {
+      "id": "allen_014",
+      "speaker": "Allen",
+      "text": "Venimos de Magnolia y de Don Basilio. Uno de sus juguetes nos ha hablado.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_014.mp3"
+    },
+    {
+      "id": "carmesi_002",
+      "speaker": "Señorita Carmesí",
+      "text": "Entonces recordad lo que han visto. Hay noches en que una promesa se disfraza de premio.",
+      "emotion": "elegante, pausada e inquietante",
+      "file": "assets/voices/carmesi/carmesi_002.mp3"
+    },
+    {
+      "id": "riliane_012",
+      "speaker": "Riliane",
+      "text": "Tengo buena memoria. Allen también. Puede preguntarnos.",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_012.mp3"
+    },
+    {
+      "id": "carmesi_003",
+      "speaker": "Señorita Carmesí",
+      "text": "Tres recuerdos, nada más. Si dudáis, consultad vuestro cuaderno. Lo escrito pesa más que un rumor.",
+      "emotion": "elegante, pausada e inquietante",
+      "file": "assets/voices/carmesi/carmesi_003.mp3"
+    },
+    {
+      "id": "carmesi_004",
+      "speaker": "Señorita Carmesí",
+      "text": "Una tarjeta, un muñeco que cambia y un camino dibujado. Habéis prestado atención. Ahora escuchad bien.",
+      "emotion": "elegante, pausada e inquietante",
+      "file": "assets/voices/carmesi/carmesi_004.mp3"
+    },
+    {
+      "id": "carmesi_005",
+      "speaker": "Señorita Carmesí",
+      "text": "Cuando él sonría, no le devuelvan la sonrisa",
+      "emotion": "elegante, pausada e inquietante",
+      "file": "assets/voices/carmesi/carmesi_005.mp3"
+    },
+    {
+      "id": "riliane_013",
+      "speaker": "Riliane",
+      "text": "¿Él? ¿Habla de alguien del concurso?",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_013.mp3"
+    },
+    {
+      "id": "carmesi_006",
+      "speaker": "Señorita Carmesí",
+      "text": "No todas las sonrisas son una bienvenida. No confundáis la cortesía con una promesa.",
+      "emotion": "elegante, pausada e inquietante",
+      "file": "assets/voices/carmesi/carmesi_006.mp3"
+    },
+    {
+      "id": "allen_015",
+      "speaker": "Allen",
+      "text": "Voy a escribir sus palabras exactas. No quiero acordarme a medias después.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_015.mp3"
+    },
+    {
+      "id": "carmesi_007",
+      "speaker": "Señorita Carmesí",
+      "text": "Hacedlo. Y quedaos juntos cuando salgáis de mi porche.",
+      "emotion": "elegante, pausada e inquietante",
+      "file": "assets/voices/carmesi/carmesi_007.mp3"
+    },
+    {
+      "id": "riliane_014",
+      "speaker": "Riliane",
+      "text": "Ven, Allen. Caminemos juntos. Esta vez el premio puede esperar.",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_014.mp3"
+    },
+    {
+      "id": "allen_016",
+      "speaker": "Allen",
+      "text": "Riliane… se ha apagado la luz de Carmesí. Estaba encendida hace un momento.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_016.mp3"
+    },
+    {
+      "id": "riliane_015",
+      "speaker": "Riliane",
+      "text": "Y ha cerrado las cortinas. ¿Crees que nos está mirando todavía?",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_015.mp3"
+    },
+    {
+      "id": "allen_017",
+      "speaker": "Allen",
+      "text": "No lo sé. La calle parece distinta sin esa luz. Voy a apuntar dónde estábamos cuando se apagó.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_017.mp3"
+    },
+    {
+      "id": "carmesi_008",
+      "speaker": "Señorita Carmesí",
+      "text": "Ya os he dicho lo que podía. No necesitáis llamar otra vez para recordar mis palabras.",
+      "emotion": "elegante, pausada e inquietante",
+      "file": "assets/voices/carmesi/carmesi_008.mp3"
+    },
+    {
+      "id": "allen_018",
+      "speaker": "Allen",
+      "text": "Las tengo guardadas. No le devolveremos la sonrisa.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_018.mp3"
+    },
+    {
+      "id": "carmesi_009",
+      "speaker": "Señorita Carmesí",
+      "text": "¿Qué os entregó Magnolia para hablaros del premio?",
+      "emotion": "elegante, pausada e inquietante",
+      "file": "assets/voices/carmesi/carmesi_009.mp3"
+    },
+    {
+      "id": "carmesi_010",
+      "speaker": "Señorita Carmesí",
+      "text": "En el escaparate de Basilio, ¿qué muñeco cambió al apartar la mirada?",
+      "emotion": "elegante, pausada e inquietante",
+      "file": "assets/voices/carmesi/carmesi_010.mp3"
+    },
+    {
+      "id": "carmesi_011",
+      "speaker": "Señorita Carmesí",
+      "text": "¿Qué os dio Basilio para reconocer el camino de vuelta?",
+      "emotion": "elegante, pausada e inquietante",
+      "file": "assets/voices/carmesi/carmesi_011.mp3"
+    },
+    {
+      "id": "allen_019",
+      "speaker": "Allen",
+      "text": "Antes de entrar aquí, terminemos la visita a Carmesí y salgamos juntos de su porche.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_019.mp3"
+    },
+    {
+      "id": "allen_020",
+      "speaker": "Allen",
+      "text": "Esta casa lleva años cerrada. Mira las guirnaldas… y esa mecedora.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_020.mp3"
+    },
+    {
+      "id": "riliane_016",
+      "speaker": "Riliane",
+      "text": "Será el viento. Aunque… aquí no se mueve ni una hoja. Quédate a mi lado.",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_016.mp3"
+    },
+    {
+      "id": "allen_021",
+      "speaker": "Allen",
+      "text": "Hay tres faroles y algo tallado en el dintel. Quizá podamos iluminar el porche sin entrar.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_021.mp3"
+    },
+    {
+      "id": "riliane_017",
+      "speaker": "Riliane",
+      "text": "Me parece una idea excelente. Las princesas también saben cuándo no abrir una puerta.",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_017.mp3"
+    },
+    {
+      "id": "allen_022",
+      "speaker": "Allen",
+      "text": "Voy a copiar la inscripción. Los símbolos de los faroles coinciden con los del relieve.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_022.mp3"
+    },
+    {
+      "id": "allen_023",
+      "speaker": "Allen",
+      "text": "1912, 1956, 1998… Han cambiado las casas y los disfraces. Ese hombre no.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_023.mp3"
+    },
+    {
+      "id": "riliane_018",
+      "speaker": "Riliane",
+      "text": "Podría ser su abuelo. O… no. Hasta la sonrisa es la misma.",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_018.mp3"
+    },
+    {
+      "id": "allen_024",
+      "speaker": "Allen",
+      "text": "Debajo pone «Nuestro anfitrión: el Señor Sonrisas». Tiene el mismo sombrero y los mismos guantes en todas.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_024.mp3"
+    },
+    {
+      "id": "riliane_019",
+      "speaker": "Riliane",
+      "text": "El del concurso… Allen, ya no quiero ese premio. ¿Podemos irnos?",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_019.mp3"
+    },
+    {
+      "id": "allen_025",
+      "speaker": "Allen",
+      "text": "Sí. Pero primero leamos la hoja que está junto al álbum. Puede decirnos por dónde volver.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_025.mp3"
+    },
+    {
+      "id": "riliane_020",
+      "speaker": "Riliane",
+      "text": "«Invitados permanentes»… No suena a una fiesta que se termine. Yo solo quería ganar un caramelo.",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_020.mp3"
+    },
+    {
+      "id": "allen_026",
+      "speaker": "Allen",
+      "text": "Todavía no lo has aceptado. Mira: la luz de los porches le impide entrar. No estamos indefensos.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_026.mp3"
+    },
+    {
+      "id": "riliane_021",
+      "speaker": "Riliane",
+      "text": "Y si alguien llama con «Dulce o truco», tiene que responder. Eso sí me lo voy a aprender.",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_021.mp3"
+    },
+    {
+      "id": "allen_027",
+      "speaker": "Allen",
+      "text": "Hay un plano del paso lateral hacia nuestro portón. Lo guardaré. La última casa queda al otro extremo; vayamos juntos y sin aceptar nada.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_027.mp3"
+    },
+    {
+      "id": "riliane_022",
+      "speaker": "Riliane",
+      "text": "Juntos. Y esta vez, si dices que nos vayamos, te haré caso.",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_022.mp3"
+    },
+    {
+      "id": "allen_028",
+      "speaker": "Allen",
+      "text": "Riliane… ¿desde cuándo había una casa al final de esta calle?",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_028.mp3"
+    },
+    {
+      "id": "riliane_023",
+      "speaker": "Riliane",
+      "text": "No lo sé… pero mira ese cartel. ¡Dice que hemos ganado!",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_023.mp3"
+    },
+    {
+      "id": "allen_029",
+      "speaker": "Allen",
+      "text": "Hasta las ventanas parecen mirar hacia allí. No me gusta. Deberíamos volver.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_029.mp3"
+    },
+    {
+      "id": "riliane_024",
+      "speaker": "Riliane",
+      "text": "Solo vamos a mirar. Te lo prometo.",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_024.mp3"
+    },
+    {
+      "id": "sonrisas_001",
+      "speaker": "Señor Sonrisas",
+      "text": "¡Maravilloso! ¡Mis últimos invitados han llegado!",
+      "emotion": "teatral y excesivamente amable",
+      "file": "assets/voices/sonrisas/sonrisas_001.mp3"
+    },
+    {
+      "id": "sonrisas_002",
+      "speaker": "Señor Sonrisas",
+      "text": "¡Riliane Lucifen! ¡Allen Avadonia! ¡Qué alegría verlos otra vez!",
+      "emotion": "teatral y excesivamente amable",
+      "file": "assets/voices/sonrisas/sonrisas_002.mp3"
+    },
+    {
+      "id": "allen_030",
+      "speaker": "Allen",
+      "text": "¿Otra vez?",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_030.mp3"
+    },
+    {
+      "id": "sonrisas_003",
+      "speaker": "Señor Sonrisas",
+      "text": "¡Oh! ¡Los niños de hoy hacen preguntas encantadoras!",
+      "emotion": "teatral y excesivamente amable",
+      "file": "assets/voices/sonrisas/sonrisas_003.mp3"
+    },
+    {
+      "id": "riliane_025",
+      "speaker": "Riliane",
+      "text": "¿Usted tiene el Caramelo de Oro?",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_025.mp3"
+    },
+    {
+      "id": "sonrisas_004",
+      "speaker": "Señor Sonrisas",
+      "text": "¡Naturalmente, princesa! ¡Y llevo toda la noche esperándote!",
+      "emotion": "teatral y excesivamente amable",
+      "file": "assets/voices/sonrisas/sonrisas_004.mp3"
+    },
+    {
+      "id": "riliane_026",
+      "speaker": "Riliane",
+      "text": "Es tan bonito… Solo quería ganar una vez.",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_026.mp3"
+    },
+    {
+      "id": "allen_031",
+      "speaker": "Allen",
+      "text": "¡Espera! La nota de Faroles: aceptar es quedarse. Todavía no lo has cogido.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_031.mp3"
+    },
+    {
+      "id": "riliane_027",
+      "speaker": "Riliane",
+      "text": "Está bien. No lo quiero. Suelta mi manga… No, mejor no la sueltes.",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_027.mp3"
+    },
+    {
+      "id": "riliane_028",
+      "speaker": "Riliane",
+      "text": "Muchas gracias, señor. Pero mamá nos espera. No aceptamos.",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_028.mp3"
+    },
+    {
+      "id": "sonrisas_005",
+      "speaker": "Señor Sonrisas",
+      "text": "¡Qué educación tan exquisita! ¿Ni siquiera una última función?",
+      "emotion": "teatral y excesivamente amable",
+      "file": "assets/voices/sonrisas/sonrisas_005.mp3"
+    },
+    {
+      "id": "allen_032",
+      "speaker": "Allen",
+      "text": "¿Cómo sabe nuestros nombres?",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_032.mp3"
+    },
+    {
+      "id": "sonrisas_006",
+      "speaker": "Señor Sonrisas",
+      "text": "¡Un buen anfitrión recuerda a sus invitados! Los aplausos, en cambio, nunca duran bastante.",
+      "emotion": "teatral y excesivamente amable",
+      "file": "assets/voices/sonrisas/sonrisas_006.mp3"
+    },
+    {
+      "id": "riliane_029",
+      "speaker": "Riliane",
+      "text": "Pues nosotros no recordamos haber venido. Y no queremos el dulce.",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_029.mp3"
+    },
+    {
+      "id": "sonrisas_007",
+      "speaker": "Señor Sonrisas",
+      "text": "¡Entonces juguemos por la salida! Tres campanas, tres pequeños recuerdos. El friso tiene la respuesta.",
+      "emotion": "teatral y excesivamente amable",
+      "file": "assets/voices/sonrisas/sonrisas_007.mp3"
+    },
+    {
+      "id": "allen_033",
+      "speaker": "Allen",
+      "text": "La vela protege, la calabaza recibe y la luna despide. Podemos hacerlo juntos.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_033.mp3"
+    },
+    {
+      "id": "sonrisas_008",
+      "speaker": "Señor Sonrisas",
+      "text": "¡Bravo! ¡Una actuación maravillosa!",
+      "emotion": "teatral y excesivamente amable",
+      "file": "assets/voices/sonrisas/sonrisas_008.mp3"
+    },
+    {
+      "id": "riliane_030",
+      "speaker": "Riliane",
+      "text": "¡Ganamos! ¡Ahora déjenos salir!",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_030.mp3"
+    },
+    {
+      "id": "sonrisas_009",
+      "speaker": "Señor Sonrisas",
+      "text": "¿Salir?",
+      "emotion": "teatral y excesivamente amable",
+      "file": "assets/voices/sonrisas/sonrisas_009.mp3"
+    },
+    {
+      "id": "sonrisas_010",
+      "speaker": "Señor Sonrisas",
+      "text": "Pero, querida… ¡la fiesta apenas comienza!",
+      "emotion": "teatral y excesivamente amable",
+      "file": "assets/voices/sonrisas/sonrisas_010.mp3"
+    },
+    {
+      "id": "sonrisas_011",
+      "speaker": "Señor Sonrisas",
+      "text": "¡Oh, pequeños! ¡Todavía no hemos terminado de jugar!",
+      "emotion": "teatral y excesivamente amable",
+      "file": "assets/voices/sonrisas/sonrisas_011.mp3"
+    },
+    {
+      "id": "riliane_031",
+      "speaker": "Riliane",
+      "text": "Allen… No estoy temblando. Es el suelo.",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_031.mp3"
+    },
+    {
+      "id": "allen_034",
+      "speaker": "Allen",
+      "text": "Mírame. La palanca de latón enciende el porche. Las luces le impiden cruzar.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_034.mp3"
+    },
+    {
+      "id": "riliane_032",
+      "speaker": "Riliane",
+      "text": "Tú abre el pestillo. Yo alcanzo la palanca.",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_032.mp3"
+    },
+    {
+      "id": "sonrisas_012",
+      "speaker": "Señor Sonrisas",
+      "text": "¡Ay, qué luces tan desagradables! ¡Arruinan toda la decoración!",
+      "emotion": "teatral y excesivamente amable",
+      "file": "assets/voices/sonrisas/sonrisas_012.mp3"
+    },
+    {
+      "id": "allen_035",
+      "speaker": "Allen",
+      "text": "¡Abierto! A la izquierda. La calle se está doblando: sigue las flechas y busca los interruptores dorados.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_035.mp3"
+    },
+    {
+      "id": "riliane_033",
+      "speaker": "Riliane",
+      "text": "El premio puede quedárselo. Mi hermano viene conmigo.",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_033.mp3"
+    },
+    {
+      "id": "sonrisas_013",
+      "speaker": "Señor Sonrisas",
+      "text": "¡Qué pena! Justo cuando empezábamos a divertirnos…",
+      "emotion": "teatral y excesivamente amable",
+      "file": "assets/voices/sonrisas/sonrisas_013.mp3"
+    },
+    {
+      "id": "sonrisas_014",
+      "speaker": "Señor Sonrisas",
+      "text": "Pero no se preocupen, pequeños.",
+      "emotion": "teatral y excesivamente amable",
+      "file": "assets/voices/sonrisas/sonrisas_014.mp3"
+    },
+    {
+      "id": "sonrisas_015",
+      "speaker": "Señor Sonrisas",
+      "text": "Siempre queda el próximo Halloween.",
+      "emotion": "teatral y excesivamente amable",
+      "file": "assets/voices/sonrisas/sonrisas_015.mp3"
+    },
+    {
+      "id": "madre_001",
+      "speaker": "Mamá",
+      "text": "Vamos, pequeños. Es tarde. Ya terminó Halloween.",
+      "emotion": "cálida y tranquilizadora",
+      "file": "assets/voices/madre/madre_001.mp3"
+    },
+    {
+      "id": "riliane_034",
+      "speaker": "Riliane",
+      "text": "Mamá… Yo…",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_034.mp3"
+    },
+    {
+      "id": "allen_036",
+      "speaker": "Allen",
+      "text": "Ya estamos los dos. Eso es lo importante.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_036.mp3"
+    },
+    {
+      "id": "riliane_035",
+      "speaker": "Riliane",
+      "text": "Allen, la próxima vez tú eliges cuándo volvemos.",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_035.mp3"
+    },
+    {
+      "id": "allen_037",
+      "speaker": "Allen",
+      "text": "La calle está quieta otra vez. No veo a nadie.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_037.mp3"
+    },
+    {
+      "id": "riliane_036",
+      "speaker": "Riliane",
+      "text": "Espera… Este caramelo no estaba en mi bolsa.",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_036.mp3"
+    },
+    {
+      "id": "allen_038",
+      "speaker": "Allen",
+      "text": "No lo abras. Encontrarlo no significa que lo hayas aceptado.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_038.mp3"
+    },
+    {
+      "id": "sonrisas_016",
+      "speaker": "Señor Sonrisas",
+      "text": "¡Nos vemos el próximo año!",
+      "emotion": "teatral y excesivamente amable",
+      "file": "assets/voices/sonrisas/sonrisas_016.mp3"
+    },
+    {
+      "id": "allen_039",
+      "speaker": "Allen",
+      "text": "Guardé la tarjeta junto a los dulces. Podemos leer la primera página del cuaderno",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_039.mp3"
+    },
+    {
+      "id": "allen_040",
+      "speaker": "Allen",
+      "text": "La tarjeta de Magnolia. La guardé para que no se perdiera",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_040.mp3"
+    },
+    {
+      "id": "allen_041",
+      "speaker": "Allen",
+      "text": "La princesa seguía igual. Comparamos las caras con mi primera observación",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_041.mp3"
+    },
+    {
+      "id": "allen_042",
+      "speaker": "Allen",
+      "text": "El caballero. Antes nos miraba; después solo veíamos su espalda",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_042.mp3"
+    },
+    {
+      "id": "allen_043",
+      "speaker": "Allen",
+      "text": "Está en la página del dibujo de las farolas. Aún no hemos recibido ninguna llave",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_043.mp3"
+    },
+    {
+      "id": "allen_044",
+      "speaker": "Allen",
+      "text": "El dibujo de las farolas. Nos ayudará a reconocer la calle",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_044.mp3"
+    },
+    {
+      "id": "allen_045",
+      "speaker": "Allen",
+      "text": "Dentro del rectángulo de Faroles estamos a salvo. Abre el pestillo; al salir volverá a seguirnos",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_045.mp3"
+    },
+    {
+      "id": "riliane_037",
+      "speaker": "Riliane",
+      "text": "¡No pienso dejarte aquí!",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_037.mp3"
+    },
+    {
+      "id": "allen_046",
+      "speaker": "Allen",
+      "text": "Entonces… juntos. ¡Nuestra luz está al final!",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_046.mp3"
+    },
+    {
+      "id": "allen_047",
+      "speaker": "Allen",
+      "text": "¡Riliane, sigue sin mí!",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_047.mp3"
+    },
+    {
+      "id": "sonrisas_017",
+      "speaker": "Señor Sonrisas",
+      "text": "¡Te encontré! ¡Ahora te toca quedarte!",
+      "emotion": "teatral y excesivamente amable",
+      "file": "assets/voices/sonrisas/sonrisas_017.mp3"
+    },
+    {
+      "id": "allen_048",
+      "speaker": "Allen",
+      "text": "¡Ese tejado otra vez! No sigas las puertas: sigue las marcas del paso lateral",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_048.mp3"
+    },
+    {
+      "id": "riliane_038",
+      "speaker": "Riliane",
+      "text": "¡El tejado verde! ¡Mi corona!",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_038.mp3"
+    },
+    {
+      "id": "allen_049",
+      "speaker": "Allen",
+      "text": "Nuestro escudo sigue ahí. ¡Enciende la luz de la puerta!",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_049.mp3"
+    },
+    {
+      "id": "allen_050",
+      "speaker": "Allen",
+      "text": "Los dibujé a los dos de frente. Fíjate en cuál ya no nos enseña la cara. Podemos intentarlo otra vez",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_050.mp3"
+    },
+    {
+      "id": "allen_051",
+      "speaker": "Allen",
+      "text": "Sigamos la inscripción del dintel. Cada farol tiene un símbolo distinto",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_051.mp3"
+    },
+    {
+      "id": "allen_052",
+      "speaker": "Allen",
+      "text": "Ese farol ya está encendido. Dejémoslo así",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_052.mp3"
+    },
+    {
+      "id": "riliane_039",
+      "speaker": "Riliane",
+      "text": "¿Has oído eso? Parece que la casa está respirando…",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_039.mp3"
+    },
+    {
+      "id": "allen_053",
+      "speaker": "Allen",
+      "text": "Leamos la hoja junto al álbum antes de irnos",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_053.mp3"
+    },
+    {
+      "id": "allen_054",
+      "speaker": "Allen",
+      "text": "Han borrado la palabra bienvenidos",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_054.mp3"
+    },
+    {
+      "id": "riliane_040",
+      "speaker": "Riliane",
+      "text": "Qué maleducadas…",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_040.mp3"
+    },
+    {
+      "id": "allen_055",
+      "speaker": "Allen",
+      "text": "¡Dulce o truco!",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_055.mp3"
+    },
+    {
+      "id": "allen_056",
+      "speaker": "Allen",
+      "text": "¡Por aquí!",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_056.mp3"
+    },
+    {
+      "id": "allen_057",
+      "speaker": "Allen",
+      "text": "Había alguien detrás del cristal. Magnolia estaba en la puerta…",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_057.mp3"
+    },
+    {
+      "id": "riliane_041",
+      "speaker": "Riliane",
+      "text": "Esa calabaza antes no… Nada. Vamos",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_041.mp3"
+    },
+    {
+      "id": "allen_058",
+      "speaker": "Allen",
+      "text": "Los muñecos no podían golpear el cristal. Estaban en la repisa",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_058.mp3"
+    },
+    {
+      "id": "allen_059",
+      "speaker": "Allen",
+      "text": "El hombre del sombrero… Estaba justo ahí",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_059.mp3"
+    },
+    {
+      "id": "allen_060",
+      "speaker": "Allen",
+      "text": "Mi sombra… No te detengas a mirarla",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_060.mp3"
+    },
+    {
+      "id": "allen_061",
+      "speaker": "Allen",
+      "text": "Ha dejado de respirar. Creo que ahora nos está escuchando",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_061.mp3"
+    },
+    {
+      "id": "allen_062",
+      "speaker": "Allen",
+      "text": "Espera. Ese camino… antes continuaba entre los árboles",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_062.mp3"
+    },
+    {
+      "id": "allen_063",
+      "speaker": "Allen",
+      "text": "No estaba ahí. La calle acaba de cambiar… Lo estoy dibujando para no olvidarlo.",
+      "emotion": "amable y tranquila",
+      "file": "assets/voices/allen/allen_063.mp3"
+    },
+    {
+      "id": "riliane_042",
+      "speaker": "Riliane",
+      "text": "Entonces no te alejes. Ni aunque te lo pida.",
+      "emotion": "orgullosa y alegre",
+      "file": "assets/voices/riliane/riliane_042.mp3"
+    }
+  ]
+}

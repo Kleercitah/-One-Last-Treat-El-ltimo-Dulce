@@ -1,0 +1,17 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+.DS_Store
+.env
+.env.local
+.env.*.local
+
+# Copias de seguridad y artefactos locales: nunca se suben al repositorio.
+backups/
+.backup/
+release/
+
+# Basura del sistema de archivos de macOS dentro de los paquetes de terceros.
+**/__MACOSX/
+._*

@@ -1,0 +1,21 @@
+ONE LAST TREAT — Third-party notices
+
+Phaser 3.90.0 — Copyright Richard Davey / Photon Storm Ltd. MIT license.
+Full MIT license: licenses/Phaser-MIT.txt
+
+meSpeak.js 2.0.7 — Norbert Landsteiner, mass:werk (2011–2020).
+Based on speak.js and eSpeak. GNU GPL version 3.
+Official distribution: https://www.masswerk.at/mespeak/
+License: vendor/mespeak/License.txt
+Runtime files and Spanish voice are unmodified copies of the official archive.
+Original archive, including unminified JS source, kept by the developer at:
+vendor/mespeak-upstream.zip
+
+This file is attribution, NOT a grant of permission to distribute the entire game
+under GPL or a complete corresponding-source offer. Before public distribution
+with meSpeak, the game owner must resolve GPL compatibility and provide the
+corresponding source under the applicable terms. See docs/PUBLISHING_GUIDE.md
+in the development project. The technical web ZIP has not been published.
+
+Music and dedication image: supplied by the game owner; rights not inferred
+from their presence in this project. No change of license is applied to them.

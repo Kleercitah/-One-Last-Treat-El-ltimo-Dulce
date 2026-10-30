@@ -1,0 +1,26 @@
+{
+  "name": "one-last-treat",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "One Last Treat — La última función, aventura completa",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "node --test tests/*.test.js",
+    "voices:validate": "node --test tests/fish-audio.test.js",
+    "pretest:e2e": "npm run build",
+    "test:e2e": "playwright test",
+    "check:voice-builds": "node scripts/check-voice-builds.js",
+    "voices:catalog": "node scripts/build-voice-catalog.js",
+    "voices:dry-run": "node scripts/generate-voices.js --dry-run",
+    "voices:sample": "node scripts/generate-voices.js --sample",
+    "generate:voices": "node scripts/generate-voices.js --generate",
+    "check:voices": "node scripts/check-voices.js",
+    "package:web": "npm run build && pwsh -NoProfile -File scripts/package.ps1"
+  },
+  "dependencies": { "phaser": "3.90.0" },
+  "devDependencies": { "vite": "6.4.1", "@playwright/test": "1.56.1" },
+  "engines": { "node": ">=22.12.0" }
+}
